@@ -19,6 +19,7 @@ Upgrade your setup with several modern sources, filters, transitions and encoder
 ++++
 Maintaining a project like StreamFX requires time and money, of which both are in short supply. If you use any feature of StreamFX, please consider supporting StreamFX via link:https://patreon.com/xaymar[Patreon]. Even as little as 1€ per month matters a lot, plus you get a number of benefits!
 
+
 === License
 Licensed under link:https://github.com/Xaymar/obs-StreamFX/blob/root/LICENSE[GPLv3 (or later), see LICENSE]. Additional works included are:
 
